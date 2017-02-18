@@ -1,0 +1,47 @@
+h1 {
+	background-color: orange;
+}
+
+#gameInstructions {
+	background-color: #f4d442;
+}
+
+#randomNum {
+	background-color: #3ef298;
+}
+
+#winLoss {
+	background-color: #3be0ef;
+}
+
+#totalScoreIs {
+	background-color: #2ac41f;
+}
+
+#totalScore {
+	background-color: #2ac41f;
+}
+
+#red {
+	height: 20px;
+	width: 20px;
+	background-color: red;
+}
+
+#blue {
+	height: 20px;
+	width: 20px;
+	background-color: blue;
+}
+
+#yellow {
+	height: 20px;
+	width: 20px;
+	background-color: yellow;
+}
+
+#green {
+	height: 20px;
+	width: 20px;
+	background-color: green;
+}
