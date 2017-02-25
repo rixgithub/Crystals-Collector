@@ -1,47 +1,96 @@
-h1 {
+body {
+	background-image: url("../images/bg.jpg");
+}
+
+#head {
 	background-color: orange;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Sigmar One', cursive;
+	font-size: 40px;
+	margin: 10px;
+	padding: 0;
+
 }
 
 #gameInstructions {
 	background-color: #f4d442;
+	padding: 20px;
 }
 
-#randomNum {
-	background-color: #3ef298;
+#ranNum {
+	background-color: #00ff90;
+	height: 100px;
+}
+
+#ranNum p {
+	font-size: 18px;
+	text-align: center;
+}
+
+#ranNum #randomNum {
+	font-size: 30px;
 }
 
 #winLoss {
-	background-color: #3be0ef;
+	background-color: #00ffd4;
+	height: 100px;
+	padding-left: 10px;
 }
 
-#totalScoreIs {
-	background-color: #2ac41f;
+#winLoss p {
+	font-size: 20px;
 }
 
 #totalScore {
-	background-color: #2ac41f;
+	background-color: #00bbff;
+}
+
+#scoreRow  p {
+	font-size: 30px;
+	text-align: center;
+}
+
+#buttonRow {
+	text-align: center;
+	background-color: #00f2ff;
+}
+
+img {
+	height: 65px;
+	width: 65px;
 }
 
 #red {
-	height: 20px;
-	width: 20px;
-	background-color: red;
+	height: 70px;
+	width: 70px;
+	margin: 20px;
+	padding: 0;
+	border: 2px solid black;
 }
 
 #blue {
-	height: 20px;
-	width: 20px;
-	background-color: blue;
+	height: 70px;
+	width: 70px;
+	margin: 20px;
+	padding: 0;
+	border: 2px solid black;
 }
 
 #yellow {
-	height: 20px;
-	width: 20px;
-	background-color: yellow;
+	height: 70px;
+	width: 70px;
+	margin: 20px;
+	padding: 0;
+	border: 2px solid black;
 }
 
 #green {
-	height: 20px;
-	width: 20px;
-	background-color: green;
+	height: 70px;
+	width: 70px;
+	margin: 20px;
+	padding: 0;
+	border: 2px solid black;
 }
